@@ -1,25 +1,25 @@
 # The Augmented Scrum Guide
-**For Human + AI Software Delivery Teams**
+**For AI-Assisted Software Delivery Teams**
 *Version 0.1 - Experimental*
 
 ---
 
 ## Purpose
 
-Augmented Scrum extends Scrum to enable teams to build software safely and sustainably using AI-assisted development.
+Augmented Scrum evolve Scrum to enable teams to build software safely and sustainably using AI-assisted development.
 
 It addresses a new and critical reality:
 
-> **AI accelerates code generation. It does not remove complexity. It converts it into entropy.**
+> **AI accelerates code generation. It does not remove complexity. It converts it into entropy and cognitive debt.**
+
+Cognitive Debt make Technical Debt exponential. ln(CD)= TD
 
 Entropy compounds faster than traditional technical debt. Left unmanaged, it makes systems unmaintainable, regardless of how quickly they were built.
 
 Entropy include: unpredictability, loss of structure, and loss of traceability.
 
 The purpose of Augmented Scrum is to:
-- Preserve human understanding of systems at all times
-- Control the rate of AI-generated complexity
-- Ensure the long-term evolvability of software
+Help AI-Assited Teams Develop Software Faster, Securely and Sustainably. 
 
 ---
 
@@ -96,7 +96,7 @@ The AI Agent is an execution tool that:
 - Carries no accountability for system correctness or coherence
 - Has no understanding of the system it modifies
 
-> The AI Agent must never be treated as a team member. It has no judgment, no memory, and no responsibility.
+> The AI Agent must never be treated as a team member. It has no responsibility.
 
 ---
 
@@ -108,8 +108,8 @@ User stories and tasks must be structured and explicit enough for AI to execute 
 ### Sprint Backlog
 Each Sprint Backlog must include three categories of work:
 1. **Delivery work**  features and fixes
-2. **Validation work**  human review of AI-Assisted output.
-3. **Entropy reduction work** refactoring for comprehensibility, architecture alignment, cognitive debt repayment
+2. **Validation work**  review of AI-Assisted output.
+3. **Entropy reduction work** refactoring for comprehensibility, architecture alignment, cognitive debt repayment.
 
 No sprint is complete without all three.
 
@@ -125,7 +125,7 @@ An Increment must satisfy two complementary standards:
 - The code can be understood by a human in a reasonable time
 - Design decisions are traceable and explainable
 - System behavior is predictable
-- The code can be safely modified in the next sprint
+- The system can be safely modified in the next sprint
 
 > **If the Increment meets the Definition of Done but fails the Definition of Control, it does not ship.**
 
@@ -142,11 +142,11 @@ A fixed-length iteration of one to four weeks. Every Sprint must produce:
 The team defines:
 - What will be built
 - What AI is authorized to generate, and within what boundaries
-- Who is responsible for validating each AI-generated component
+- Who is responsible : Humans are assigned to task, they are Agmented devs
 - The cognitive budget for the sprint (see Rules)
 
 ### Daily Scrum
-The focus shifts from activity reporting to system control:
+The focus must include not only value tracking, but system control as well:
 - What was generated?
 - What has been validated?
 - What is not yet understood?
