@@ -4,8 +4,11 @@ Control AI. Sustain Software.
 Version 0.1 (Experimental)
 
 It's called Augmented, not because we are expanding Scrum, it's to signify that softwrae devs practice is now done by hybrid teams, it's AI-Assissted software development.
+
 The term is inspired from Data augmentation it is the process of artificially generating new data from existing data, primarily to train new machine learning (ML) models. 
-In AI-Assissted software development, we are artificially augmenting the velociy of software production of an xFT Team.
+
+In AI-Assissted software development, we are artificially augmenting the velociy of software production of an xFT Team
+.
 This leads to new dangers that threatnes software sustainabiliy, thus these concerns needs to be incorportaed in a newAgile framework: Augmented Scrum.
 
 # The Problem
