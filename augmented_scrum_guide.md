@@ -35,9 +35,9 @@ Augmented Scrum does not replace Scrum. It governs the human–AI relationship w
 
 AI coding tools introduce three interconnected forces that traditional Scrum does not address:
 
-1. **Volume** — AI generates code faster than humans can understand it
-2. **Opacity** — AI-generated decisions leave no traceable rationale
-3. **Non-determinism** — AI can alter or remove system behavior without intent or warning
+1. **Volume** : AI generates code faster than humans can understand it
+2. **Opacity** : AI-generated decisions leave no traceable rationale
+3. **Non-determinism** : AI can alter or remove system behavior without intent or warning
 
 These forces produce **cognitive debt**: the progressive loss of the team's mental model of the system. Cognitive debt precedes technical debt. It makes technical debt invisible until it collapses.
 
