@@ -58,9 +58,9 @@ AI can increase entropy if not managed properly.
 
 If left unchecked, systems become:
 
-Hard to understand
-Risky to change
-Expensive to maintain
+Hard to understand.
+Difficult to change.
+Expensive to maintain.
 
 # Augmented Scrum: 5 Rules
 
