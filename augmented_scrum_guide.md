@@ -64,7 +64,7 @@ AI operates only within clearly scoped, bounded tasks. Unbounded AI generation i
 Every iteration must include deliberate effort to reduce unpredictability, inconsistency, and loss of structure. Entropy does not manage itself.
 
 ### 4. Cognitive Sustainability
-The system must remain understandable by humans at all times. Speed that destroys comprehension is not speed — it is deferred failure.
+The system must remain understandable by humans at all times. Speed that destroys comprehension is not speed; it is deferred failure.
 
 ### 5. Validation Is a First-Class Activity
 The primary bottleneck in AI-assisted development is not writing code. It is validating it. Validation must be planned, staffed, and measured.
@@ -77,7 +77,7 @@ The primary bottleneck in AI-assisted development is not writing code. It is val
 The Product Owner is accountable for:
 - Maximizing product value over the long term, not just sprint velocity
 - Defining requirements that are unambiguous, structured, and testable
-- Ensuring AI receives clear, bounded inputs — not open-ended directives
+- Ensuring AI receives clear, bounded inputs; not open-ended directives
 
 ### Augmented Developer
 The Augmented Developer is a human professional accountable for:
@@ -85,7 +85,7 @@ The Augmented Developer is a human professional accountable for:
 - Reviewing and validating all AI-generated code before integration
 - Enforcing architectural consistency across iterations
 - Ensuring every piece of code is understandable and safely modifiable
-- Flagging entropy early — before it compounds
+- Flagging entropy early; before it compounds
 
 > The Augmented Developer is not a prompt engineer. They are the primary guardian of system integrity.
 
@@ -106,9 +106,9 @@ User stories and tasks must be structured and explicit enough for AI to execute 
 
 ### Sprint Backlog
 Each Sprint Backlog must include three categories of work:
-1. **Delivery work** — features and fixes
-2. **Validation work** — human review of AI-generated output
-3. **Entropy reduction work** — refactoring for comprehensibility, architecture alignment, cognitive debt repayment
+1. **Delivery work**  features and fixes
+2. **Validation work**  human review of AI-Assisted output.
+3. **Entropy reduction work** refactoring for comprehensibility, architecture alignment, cognitive debt repayment
 
 No sprint is complete without all three.
 
@@ -171,23 +171,23 @@ The team inspects:
 
 ## Rules
 
-### Rule 1 — AI Output Must Be Reviewable
+### Rule 1 AI Output Must Be Reviewable
 No AI-generated code may be merged without a human who fully understands it. "I reviewed it quickly" does not satisfy this rule.
 
-### Rule 2 — Cap AI Throughput to Human Validation Capacity
-AI generation must be constrained to match the team's ability to review it. If the team cannot validate all output in the sprint, AI output must be reduced — not review standards.
+### Rule 2 Cap AI Throughput to Human Validation Capacity
+AI generation must be constrained to match the team's ability to review it. If the team cannot validate all output in the sprint, AI output must be reduced; not review standards.
 
-### Rule 3 — Prefer Small, Bounded Changes
+### Rule 3 Prefer Small, Bounded Changes
 Large, opaque AI-generated changesets are prohibited. AI tasks must be scoped to produce reviewable increments of behavior.
 
-### Rule 4 — Test Invariants, Not Permutations
+### Rule 4 Test Invariants, Not Permutations
 Testing strategy focuses on system truths:
 - What must always be true about this system?
 - What must never happen?
 
 Exhaustive permutation testing driven by AI non-determinism is unsustainable. Invariant testing is not.
 
-### Rule 5 — Humans Own Architecture, Always
+### Rule 5 Humans Own Architecture, Always
 AI must not make decisions about:
 - System structure
 - Domain modeling
@@ -196,7 +196,7 @@ AI must not make decisions about:
 
 These decisions belong to Augmented Developers. If AI has made them implicitly, the team must reclaim them explicitly.
 
-### Rule 6 — Entropy Must Be Measured Each Sprint
+### Rule 6 Entropy Must Be Measured Each Sprint
 The team must assess, at minimum qualitatively, whether entropy increased or decreased. If three consecutive sprints show entropy growth, the team must stop feature delivery and stabilize.
 
 ---
@@ -210,9 +210,9 @@ The Cognitive Budget is not a productivity ceiling. It is a sustainability floor
 Teams that exceed their Cognitive Budget consistently do not move faster. They accumulate invisible debt that surfaces as sudden, unrecoverable instability.
 
 Suggested allocation per sprint:
-- **50%** — delivery (features, fixes)
-- **25%** — validation of AI-generated output
-- **25%** — entropy reduction (comprehensibility, architecture, cognitive debt)
+- **50%** delivery (features, fixes)
+- **25%** validation of AI-generated output
+- **25%** entropy reduction (comprehensibility, architecture, cognitive debt)
 
 These ratios are starting points, not rules. Teams adjust based on their entropy level.
 
