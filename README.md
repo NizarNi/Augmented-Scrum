@@ -65,14 +65,23 @@ Expensive to maintain
 # Augmented Scrum: 5 Rules
 
 1. Humans own architecture
+
 AI must not define system structure or core design decisions.
-2. AI works in bounded scope
+
+3. AI works in bounded scope
+   
 No open-ended generation.
-3. AI output must match human review capacity
+
+5. AI output must match human review capacity
+   
 If it cannot be reviewed, it should not be generated.
-4. Every increment must be understandable
+
+7. Every increment must be understandable
+   
 If no one can explain it, it is not done.
-5. Every sprint must reduce entropy
+
+9. Every sprint must reduce entropy
+    
 Delivery without improved control is failure in progress.
 
 # Key Concepts
