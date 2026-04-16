@@ -60,13 +60,14 @@ If left unchecked, systems become:
 
 Hard to understand.
 Difficult to change.
+Exponential surface to test.
 Expensive to maintain.
 
 # Augmented Scrum: 5 Rules
 
 1. Humans own architecture
 
-AI must not define system structure or core design decisions.
+AI must not define system structure or core design decisions. Nevertheless it can be help full to explore options, spot patterns. In other words it may help in decision making, and accountability is still held by the dev team.
 
 3. AI works in bounded scope
    
@@ -89,9 +90,9 @@ Definition of Control
 
 An increment is valid only if:
 
-It is understandable
-Its behavior is predictable
-It can be safely modified
+It is understandable.
+Its behavior is predictable.
+It can be safely modified.
 
 Done does not mean controlled.
 
@@ -105,16 +106,16 @@ Exceeding this limit creates invisible debt.
 
 AI does not:
 
-Take responsibility
-Understand context
-Retain memory
+Take responsibility.
+Understand full context.
+Retain memory like humans do.
 
 AI increases output, but not accountability.
 
 # The Control Loop
 
 Human design
-→ Bounded AI generation
+→ Bounded AI-Assisted generation
 → Human validation
 → Control check
 → Entropy reduction
