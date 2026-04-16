@@ -12,7 +12,9 @@ It addresses a new and critical reality:
 
 > **AI accelerates code generation. It does not remove complexity. It converts it into entropy.**
 
-Entropy - unpredictability, loss of structure, and loss of traceability - compounds faster than traditional technical debt. Left unmanaged, it makes systems unmaintainable, regardless of how quickly they were built.
+Entropy compounds faster than traditional technical debt. Left unmanaged, it makes systems unmaintainable, regardless of how quickly they were built.
+
+Entropy include: unpredictability, loss of structure, and loss of traceability.
 
 The purpose of Augmented Scrum is to:
 - Preserve human understanding of systems at all times
@@ -39,7 +41,10 @@ AI coding tools introduce three interconnected forces that traditional Scrum doe
 2. **Opacity** : AI-generated decisions leave no traceable rationale
 3. **Non-determinism** : AI can alter or remove system behavior without intent or warning
 
-These forces produce **cognitive debt**: the progressive loss of the team's mental model of the system. Cognitive debt precedes technical debt. It makes technical debt invisible until it collapses.
+These forces produce:
+**cognitive debt**: the progressive loss of the team's mental model of the system. Cognitive debt precedes technical debt. It makes technical debt invisible until it collapses.
+**explosion of testing surface**: you’re compensating for Non-determinism. Testing surface expands to include obvious areas, that were not covered before in traditional softwrae dev, because humans rarely, very rarely hallucinate.
+**Reviews become the bottleneck** human team members are re-imposing order
 
 > *"If no one on the team can explain the system, the system is not under control."*
 
