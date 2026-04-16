@@ -9,7 +9,7 @@ The term is inspired from Data augmentation it is the process of artificially ge
 
 In AI-Assissted software development, we are artificially augmenting the velociy of software production of an xFT Team
 .
-This leads to new dangers that threatnes software sustainabiliy, thus these concerns needs to be incorportaed in a newAgile framework: Augmented Scrum.
+This leads to new dangers that threatnes software sustainabiliy, thus these concerns needs to be incorportaed in a new Agile framework: Augmented Scrum.
 
 # The Problem
 
