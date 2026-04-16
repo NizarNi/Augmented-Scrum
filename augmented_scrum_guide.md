@@ -43,7 +43,9 @@ AI coding tools introduce three interconnected forces that traditional Scrum doe
 
 These forces produce:
 **cognitive debt**: the progressive loss of the team's mental model of the system. Cognitive debt precedes technical debt. It makes technical debt invisible until it collapses.
+
 **explosion of testing surface**: you’re compensating for Non-determinism. Testing surface expands to include obvious areas, that were not covered before in traditional softwrae dev, because humans rarely, very rarely hallucinate.
+
 **Reviews become the bottleneck** human team members are re-imposing order
 
 > *"If no one on the team can explain the system, the system is not under control."*
