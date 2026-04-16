@@ -1,6 +1,6 @@
 # The Augmented Scrum Guide
 **For Human + AI Software Delivery Teams**
-*Version 0.1 — Experimental*
+*Version 0.1 - Experimental*
 
 ---
 
@@ -12,7 +12,7 @@ It addresses a new and critical reality:
 
 > **AI accelerates code generation. It does not remove complexity. It converts it into entropy.**
 
-Entropy — unpredictability, loss of structure, and loss of traceability — compounds faster than traditional technical debt. Left unmanaged, it makes systems unmaintainable, regardless of how quickly they were built.
+Entropy - unpredictability, loss of structure, and loss of traceability - compounds faster than traditional technical debt. Left unmanaged, it makes systems unmaintainable, regardless of how quickly they were built.
 
 The purpose of Augmented Scrum is to:
 - Preserve human understanding of systems at all times
