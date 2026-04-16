@@ -31,7 +31,7 @@ When cognitive debt grows too large, systems eventually fail.
 
 # The Idea
 
-Augmented Scrum is a lightweight extension of Scrum for AI-assisted development.
+Augmented Scrum is a lightweight evolution of Scrum for AI-assisted development.
 
 Humans remain responsible for design and control. AI is used only as an execution accelerator within clear limits.
 
@@ -43,8 +43,8 @@ AI increases output, but not understanding.
 
 Without control:
 
-More code does not mean more progress
-Faster delivery can delay failure instead of preventing it
+More code does not mean more progress.
+Faster delivery can delay failure instead of preventing it.
 
 # What Is Entropy?
 
